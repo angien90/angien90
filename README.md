@@ -1,6 +1,6 @@
 ## Hi, I'm Angelica 👋
 
-I'm soon to be a qualified Front-End Developer with previous experience in quality and environmental certifications. As a person, I like problem-solving, when things are structured and organized and I get big professional pride in my assignments. Development is part of my passion therefore I see new knowledge as an interesting challenge.
+I'm soon to be a qualified Front End Developer with previous experience in quality and environmental certifications. As a person, I like problem-solving, when things are structured and organized and I get big professional pride in my assignments. Development is part of my passion therefore I see new knowledge as an interesting challenge.
 
 You can always reach me on angelicanylander@hotmail.com 😊
 
