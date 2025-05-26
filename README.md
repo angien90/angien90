@@ -4,14 +4,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F78C6C&center=true&vCenter=true&width=500&lines=Frontend+Developer+%7C+Tech+Enthusiast;Passionate+about+UI%2FUX+and+Clean+Code;Always+Learning+New+Technologies+%F0%9F%9A%80">
 </p>
 
-
-## 🧐 About Me  
+# 🧐 About Me  
 I'm an aspiring **Front End Developer** with a passion for building **interactive** and **user-friendly** web applications. My background in **quality and environmental certifications** gives me a structured and detail-oriented approach to development.  
 
 I love **problem-solving**, writing **clean code**, and exploring **new technologies** to improve user experiences.  
 
-
-## 🚀 Tech Stack  
+# 🚀 Tech Stack  
 ### 🧑‍💻 Frontend Development  
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -35,7 +33,6 @@ I love **problem-solving**, writing **clean code**, and exploring **new technolo
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
   <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens">
   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white">
-  
 </p>
 
 ### 🎨 UI/UX & Accessibility  
@@ -52,9 +49,8 @@ I love **problem-solving**, writing **clean code**, and exploring **new technolo
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
 </p>
 
-
-## 📊 GitHub Stats  
-<p align="center">
+# 📊 GitHub Stats  
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=angien90&show_icons=true&theme=radical" alt="GitHub Stats">
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=angien90&theme=radical" alt="GitHub Streak">
@@ -62,8 +58,7 @@ I love **problem-solving**, writing **clean code**, and exploring **new technolo
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angien90&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
-
-## 📫 Let's Connect!  
+# 📫 Let's Connect!  
 <p align="left">
   <a href="https://www.linkedin.com/in/angelica-nylander-bb894b30/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
