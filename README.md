@@ -9,6 +9,16 @@ I'm an aspiring **Front End Developer** with a passion for building **interactiv
 
 I love **problem-solving**, writing **clean code**, and exploring **new technologies** to improve user experiences.  
 
+# 🎓 Education  
+🧑‍🏫 **Frontend Developer Program – Medieinstitutet**  
+📍 Distance (Stockholm) (2024–2026 May)  
+Focus: Modern web development, UI/UX, JavaScript frameworks (Vue, React), accessibility, and agile workflows.
+
+### 📚 Currently Learning
+- React
+- Testing 
+- Tailwind
+
 # 🚀 Tech Stack  
 ### 🧑‍💻 Frontend Development  
 <p align="left">
@@ -19,11 +29,13 @@ I love **problem-solving**, writing **clean code**, and exploring **new technolo
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white">
 </p>
 
 ### 👩‍💻 API  
 <p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=rest&logoColor=white">
   <img src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE">
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
@@ -39,6 +51,7 @@ I love **problem-solving**, writing **clean code**, and exploring **new technolo
 <p align="left">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
   <img src="https://img.shields.io/badge/Accessibility-0170EA?style=for-the-badge&logo=Accessibility&logoColor=white">
+  <img src="https://img.shields.io/badge/WCAG-005A9C?style=for-the-badge&logo=accessibility&logoColor=white">
 </p>
 
 ### 🛠️ Version Control & Tools  
@@ -47,13 +60,16 @@ I love **problem-solving**, writing **clean code**, and exploring **new technolo
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white">
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black">
+  <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white">
 </p>
 
 # 📊 GitHub Stats  
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=angien90&show_icons=true&theme=radical" alt="GitHub Stats">
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=angien90&theme=radical" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.demolab.com?user=angien90&theme=radical" alt="GitHub Streak">
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angien90&layout=compact&theme=radical" alt="Top Languages">
 </p>
@@ -76,4 +92,5 @@ I love **problem-solving**, writing **clean code**, and exploring **new technolo
 
 ---
 
-🔥 **Fun Fact:** I love exploring haunted places and historical sites! 👻🏰  
+# 👻 Beyond Code  
+When I'm not coding, I'm probably exploring haunted castles 🏰, digging into local legends 👀, or learning more about Swedish history.
