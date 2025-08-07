@@ -15,9 +15,10 @@ I love **problem-solving**, writing **clean code**, and exploring **new technolo
 Focus: Modern web development, UI/UX, JavaScript frameworks (Vue, React), accessibility, and agile workflows.
 
 ### 📚 Currently Learning
-- React
+- React js
 - Testing 
-- Tailwind
+- Tailwinds css
+- Bootstrap
 
 # 🚀 Tech Stack  
 ### 🧑‍💻 Frontend Development  
@@ -59,6 +60,7 @@ Focus: Modern web development, UI/UX, JavaScript frameworks (Vue, React), access
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white">
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white">
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
   <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black">
