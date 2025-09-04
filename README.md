@@ -15,7 +15,6 @@ I love **problem-solving**, writing **clean code**, and exploring **new technolo
 Focus: Modern web development, UI/UX, JavaScript frameworks (Vue, React), accessibility, and agile workflows.
 
 ### 📚 Currently Learning
-- React js
 - Testing 
 - Tailwinds css
 - Bootstrap
@@ -28,9 +27,12 @@ Focus: Modern web development, UI/UX, JavaScript frameworks (Vue, React), access
   <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white">
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white">
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
+  <img src="https://img.shields.io/badge/🌐 i18n-61DAFB?style=for-the-badge&logo=earth-americas&logoColor=white">
+
 </p>
 
 ### 👩‍💻 API  
@@ -45,7 +47,7 @@ Focus: Modern web development, UI/UX, JavaScript frameworks (Vue, React), access
   <img src="https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql">
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
   <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens">
-  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white">
+  <img src="https://img.shields.io/badge/i18n-61DAFB?style=for-the-badge&logo=earth-americas&logoColor=white">
 </p>
 
 ### 🎨 UI/UX & Accessibility  
