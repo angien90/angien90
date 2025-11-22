@@ -18,6 +18,7 @@ Focus: Modern web development, UI/UX, JavaScript frameworks (Vue, React), access
 <p align="left">
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
   <img src="https://img.shields.io/badge/Cursor_AI-0A66C2?style=for-the-badge&logo=openai&logoColor=white">
+  <img src="https://img.shields.io/badge/AI%20Agents-Learning?style=for-the-badge&logo=ai&logoColor=white">
   <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white">
   <img src="https://img.shields.io/badge/SEO-4285F4?style=for-the-badge&logo=google&logoColor=white">
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
